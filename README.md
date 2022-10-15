@@ -9,3 +9,4 @@
 - git commit -m "назва комміту"
 - git push
 
+- тест
